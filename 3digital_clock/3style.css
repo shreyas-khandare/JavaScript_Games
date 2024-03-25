@@ -1,0 +1,21 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: antiquewhite;
+    flex-direction: column;
+}
+
+#clock{
+    background-color: orange;
+    height: 50px;
+    width: 200px;
+    border-radius: 2px;
+    font-size: 40px;
+    color: black;
+}
+
+/* #banner{
+    display: flex;
+    justify-content: center ;
+} */
